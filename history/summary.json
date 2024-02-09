@@ -4,9 +4,9 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3672,
     "timeMonth": 3672,
     "timeYear": 3672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-09": 0
+    }
   },
   {
     "name": "Rur Forum",
