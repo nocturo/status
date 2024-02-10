@@ -4,19 +4,19 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3492,
-    "timeDay": 2692,
-    "timeWeek": 3579,
-    "timeMonth": 3492,
-    "timeYear": 3492,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 3459,
+    "timeDay": 2913,
+    "timeWeek": 3534,
+    "timeMonth": 3459,
+    "timeYear": 3459,
     "dailyMinutesDown": {
-      "2024-02-10": 3
+      "2024-02-10": 72
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://forum.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/forum.rur.rs.ico",
     "slug": "rur-forum",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1162,
-    "timeDay": 970,
-    "timeWeek": 1185,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 1273,
+    "timeDay": 1621,
+    "timeWeek": 1306,
+    "timeMonth": 1273,
+    "timeYear": 1273,
     "dailyMinutesDown": {
-      "2024-02-10": 2
+      "2024-02-10": 72
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.interprom.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.interprom.rs.ico",
     "slug": "interprom",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1607,
-    "timeDay": 1876,
-    "timeWeek": 1624,
-    "timeMonth": 1607,
-    "timeYear": 1607,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 1571,
+    "timeDay": 1563,
+    "timeWeek": 1583,
+    "timeMonth": 1571,
+    "timeYear": 1571,
     "dailyMinutesDown": {
-      "2024-02-10": 2
+      "2024-02-10": 71
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://underdev.net/pi.php",
     "icon": "https://icons.duckduckgo.com/ip3/underdev.net.ico",
     "slug": "underdev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 553,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 560,
+    "timeDay": 542,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 70
     }
   }
 ]
