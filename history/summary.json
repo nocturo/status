@@ -4,10 +4,10 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
     "time": 3407,
@@ -16,7 +16,7 @@
     "timeMonth": 3407,
     "timeYear": 3407,
     "dailyMinutesDown": {
-      "2024-02-21": 19,
+      "2024-02-21": 21,
       "2024-02-10": 72
     }
   },
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interprom.rs.ico",
     "slug": "interprom",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "93.95%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.36%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 1496,
     "timeDay": 1991,
     "timeWeek": 1488,
     "timeMonth": 1496,
     "timeYear": 1496,
     "dailyMinutesDown": {
-      "2024-02-21": 87,
+      "2024-02-21": 96,
       "2024-02-10": 71
     }
   },
@@ -67,18 +67,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/underdev.net.ico",
     "slug": "underdev",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 2036,
     "timeDay": 10962,
     "timeWeek": 4025,
     "timeMonth": 2036,
     "timeYear": 2036,
     "dailyMinutesDown": {
-      "2024-02-21": 5,
       "2024-02-10": 70
     }
   }
