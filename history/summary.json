@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2133,
-    "timeDay": 1513,
-    "timeWeek": 1894,
-    "timeMonth": 2083,
-    "timeYear": 2118,
+    "time": 2129,
+    "timeDay": 2540,
+    "timeWeek": 2031,
+    "timeMonth": 2113,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2025-04-26": 115,
       "2025-04-06": 351,
@@ -24,8 +24,7 @@
       "2024-10-09": 18,
       "2024-10-08": 38,
       "2024-10-06": 38,
-      "2024-10-05": 49,
-      "2024-07-18": 21
+      "2024-10-05": 49
     }
   },
   {
@@ -34,16 +33,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.rur.rs.ico",
     "slug": "rur-forum",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1217,
-    "timeDay": 1108,
-    "timeWeek": 1190,
-    "timeMonth": 1163,
-    "timeYear": 1180,
+    "timeDay": 1278,
+    "timeWeek": 1144,
+    "timeMonth": 1165,
+    "timeYear": 1179,
     "dailyMinutesDown": {
       "2025-04-06": 349,
       "2025-03-11": 68,
@@ -58,8 +57,7 @@
       "2024-09-29": 19,
       "2024-08-12": 18,
       "2024-07-28": 15,
-      "2024-07-24": 17,
-      "2024-07-18": 20
+      "2024-07-24": 17
     }
   },
   {
@@ -74,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
     "time": 1898,
-    "timeDay": 3625,
-    "timeWeek": 1657,
-    "timeMonth": 1604,
-    "timeYear": 1912,
+    "timeDay": 2009,
+    "timeWeek": 1791,
+    "timeMonth": 1632,
+    "timeYear": 1859,
     "dailyMinutesDown": {
       "2025-04-26": 135,
       "2025-04-06": 349,
@@ -96,8 +94,7 @@
       "2024-08-27": 623,
       "2024-08-12": 118,
       "2024-07-31": 173,
-      "2024-07-28": 15,
-      "2024-07-18": 19
+      "2024-07-28": 15
     }
   },
   {
@@ -112,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 636,
-    "timeDay": 541,
-    "timeWeek": 592,
-    "timeMonth": 619,
-    "timeYear": 609,
+    "timeDay": 806,
+    "timeWeek": 630,
+    "timeMonth": 630,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2025-04-26": 115,
       "2025-04-06": 346,
