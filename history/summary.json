@@ -11,17 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 2096,
-    "timeDay": 1563,
-    "timeWeek": 1978,
-    "timeMonth": 2012,
+    "timeDay": 1623,
+    "timeWeek": 1950,
+    "timeMonth": 2015,
     "timeYear": 2079,
     "dailyMinutesDown": {
       "2025-07-18": 111,
       "2025-04-26": 115,
       "2025-04-06": 351,
       "2025-03-11": 69,
-      "2024-10-22": 18,
-      "2024-10-19": 20
+      "2024-10-22": 18
     }
   },
   {
@@ -36,17 +35,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1211,
-    "timeDay": 953,
-    "timeWeek": 1181,
-    "timeMonth": 1095,
+    "timeDay": 890,
+    "timeWeek": 1140,
+    "timeMonth": 1094,
     "timeYear": 1121,
     "dailyMinutesDown": {
       "2025-07-18": 21,
       "2025-04-06": 349,
       "2025-03-11": 68,
       "2024-10-22": 17,
-      "2024-10-20": 31,
-      "2024-10-19": 20
+      "2024-10-20": 31
     }
   },
   {
@@ -54,19 +52,19 @@
     "url": "https://www.interprom.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.interprom.rs.ico",
     "slug": "interprom",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.58%",
-    "time": 1816,
-    "timeDay": 3007,
-    "timeWeek": 1774,
-    "timeMonth": 1641,
-    "timeYear": 1512,
+    "time": 1814,
+    "timeDay": 1906,
+    "timeWeek": 1720,
+    "timeMonth": 1635,
+    "timeYear": 1511,
     "dailyMinutesDown": {
-      "2025-10-18": 33,
+      "2025-10-18": 27,
       "2025-10-17": 247,
       "2025-10-16": 100,
       "2025-07-18": 41,
@@ -77,8 +75,7 @@
       "2024-12-03": 401,
       "2024-12-02": 635,
       "2024-12-01": 155,
-      "2024-10-22": 17,
-      "2024-10-19": 20
+      "2024-10-22": 17
     }
   },
   {
@@ -93,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 621,
-    "timeDay": 573,
-    "timeWeek": 632,
-    "timeMonth": 645,
+    "timeDay": 522,
+    "timeWeek": 635,
+    "timeMonth": 642,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2025-07-18": 55,
