@@ -6,15 +6,15 @@
     "slug": "rur",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "75.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.50%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "98.46%",
-    "time": 2119,
-    "timeDay": 2307,
-    "timeWeek": 2176,
-    "timeMonth": 2107,
-    "timeYear": 2130,
+    "time": 2120,
+    "timeDay": 1802,
+    "timeWeek": 2165,
+    "timeMonth": 2089,
+    "timeYear": 2129,
     "dailyMinutesDown": {
       "2026-04-04": 434,
       "2026-04-03": 221,
@@ -35,8 +35,7 @@
       "2025-12-04": 47,
       "2025-11-23": 25,
       "2025-07-18": 111,
-      "2025-04-26": 115,
-      "2025-04-06": 351
+      "2025-04-26": 115
     }
   },
   {
@@ -46,15 +45,15 @@
     "slug": "rur-forum",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "75.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.50%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "98.48%",
-    "time": 1139,
-    "timeDay": 1302,
-    "timeWeek": 1209,
-    "timeMonth": 1141,
-    "timeYear": 1159,
+    "time": 1138,
+    "timeDay": 887,
+    "timeWeek": 1153,
+    "timeMonth": 1133,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2026-04-04": 434,
       "2026-04-03": 221,
@@ -75,8 +74,7 @@
       "2025-12-05": 1174,
       "2025-12-04": 47,
       "2025-11-23": 25,
-      "2025-07-18": 21,
-      "2025-04-06": 349
+      "2025-07-18": 21
     }
   },
   {
@@ -86,15 +84,15 @@
     "slug": "interprom",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "75.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.51%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "98.30%",
-    "time": 1557,
-    "timeDay": 2459,
-    "timeWeek": 2310,
-    "timeMonth": 1765,
-    "timeYear": 1631,
+    "time": 1558,
+    "timeDay": 1690,
+    "timeWeek": 2071,
+    "timeMonth": 1766,
+    "timeYear": 1632,
     "dailyMinutesDown": {
       "2026-04-04": 434,
       "2026-04-03": 220,
@@ -119,8 +117,7 @@
       "2025-10-17": 247,
       "2025-10-16": 100,
       "2025-07-18": 41,
-      "2025-04-26": 135,
-      "2025-04-06": 349
+      "2025-04-26": 135
     }
   },
   {
@@ -130,14 +127,14 @@
     "slug": "underdev",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "75.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.52%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.72%",
-    "time": 763,
-    "timeDay": 832,
-    "timeWeek": 4945,
-    "timeMonth": 1703,
+    "time": 764,
+    "timeDay": 632,
+    "timeWeek": 4947,
+    "timeMonth": 1700,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2026-04-04": 434,
@@ -147,8 +144,7 @@
       "2025-11-18": 121,
       "2025-10-28": 28,
       "2025-07-18": 55,
-      "2025-04-26": 115,
-      "2025-04-06": 346
+      "2025-04-26": 115
     }
   }
 ]
