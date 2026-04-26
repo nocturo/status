@@ -11,9 +11,9 @@
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.52%",
     "time": 2126,
-    "timeDay": 1892,
-    "timeWeek": 2320,
-    "timeMonth": 2152,
+    "timeDay": 1744,
+    "timeWeek": 2327,
+    "timeMonth": 2153,
     "timeYear": 2124,
     "dailyMinutesDown": {
       "2026-04-22": 53,
@@ -35,8 +35,7 @@
       "2025-12-05": 1174,
       "2025-12-04": 47,
       "2025-11-23": 25,
-      "2025-07-18": 111,
-      "2025-04-26": 115
+      "2025-07-18": 111
     }
   },
   {
@@ -45,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.rur.rs.ico",
     "slug": "rur-forum",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.54%",
-    "time": 1142,
-    "timeDay": 973,
-    "timeWeek": 1220,
-    "timeMonth": 1156,
-    "timeYear": 1152,
+    "time": 1141,
+    "timeDay": 786,
+    "timeWeek": 1155,
+    "timeMonth": 1146,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2026-04-22": 53,
       "2026-04-04": 434,
@@ -85,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interprom.rs.ico",
     "slug": "interprom",
     "status": "down",
-    "uptime": "98.34%",
+    "uptime": "98.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "33.74%",
-    "uptimeMonth": "83.26%",
-    "uptimeYear": "97.09%",
-    "time": 1579,
-    "timeDay": 191,
-    "timeWeek": 780,
-    "timeMonth": 2031,
-    "timeYear": 1645,
+    "uptimeWeek": "21.05%",
+    "uptimeMonth": "79.95%",
+    "uptimeYear": "96.82%",
+    "time": 1577,
+    "timeDay": 77,
+    "timeWeek": 425,
+    "timeMonth": 1982,
+    "timeYear": 1643,
     "dailyMinutesDown": {
-      "2026-04-25": 77,
+      "2026-04-26": 87,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -125,8 +125,7 @@
       "2025-10-18": 27,
       "2025-10-17": 247,
       "2025-10-16": 100,
-      "2025-07-18": 41,
-      "2025-04-26": 135
+      "2025-07-18": 41
     }
   },
   {
@@ -141,10 +140,10 @@
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.79%",
     "time": 770,
-    "timeDay": 548,
-    "timeWeek": 723,
-    "timeMonth": 1823,
-    "timeYear": 733,
+    "timeDay": 620,
+    "timeWeek": 731,
+    "timeMonth": 1824,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2026-04-04": 434,
       "2026-04-03": 219,
@@ -152,8 +151,7 @@
       "2026-03-03": 73,
       "2025-11-18": 121,
       "2025-10-28": 28,
-      "2025-07-18": 55,
-      "2025-04-26": 115
+      "2025-07-18": 55
     }
   }
 ]
