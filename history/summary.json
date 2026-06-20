@@ -4,15 +4,15 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.54%",
-    "time": 2119,
-    "timeDay": 2424,
-    "timeWeek": 2016,
+    "time": 2118,
+    "timeDay": 2192,
+    "timeWeek": 2009,
     "timeMonth": 1936,
     "timeYear": 2113,
     "dailyMinutesDown": {
@@ -35,7 +35,8 @@
       "2026-03-19": 40,
       "2026-04-04": 434,
       "2026-04-03": 221,
-      "2026-04-22": 53
+      "2026-04-22": 53,
+      "2026-06-20": 0
     }
   },
   {
