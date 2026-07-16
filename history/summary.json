@@ -4,11 +4,11 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "98.52%",
     "time": 2109,
     "timeDay": 1935,
@@ -36,7 +36,8 @@
       "2026-04-04": 434,
       "2026-04-03": 221,
       "2026-04-22": 53,
-      "2026-06-20": 90
+      "2026-06-20": 90,
+      "2026-07-16": 15
     }
   },
   {
@@ -44,11 +45,11 @@
     "url": "https://forum.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/forum.rur.rs.ico",
     "slug": "rur-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.54%",
     "time": 1130,
     "timeDay": 1042,
@@ -76,7 +77,8 @@
       "2026-03-10": 117,
       "2026-04-04": 434,
       "2026-04-03": 221,
-      "2026-04-22": 53
+      "2026-04-22": 53,
+      "2026-07-16": 10
     }
   },
   {
@@ -84,13 +86,13 @@
     "url": "https://www.interprom.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.interprom.rs.ico",
     "slug": "interprom",
-    "status": "up",
+    "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.98%",
-    "time": 1474,
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "94.97%",
+    "time": 1473,
     "timeDay": 788,
     "timeWeek": 713,
     "timeMonth": 684,
@@ -132,7 +134,8 @@
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
-      "2026-04-20": 671
+      "2026-04-20": 671,
+      "2026-07-16": 3
     }
   },
   {
@@ -140,13 +143,13 @@
     "url": "https://underdev.net/pi.php",
     "icon": "https://icons.duckduckgo.com/ip3/underdev.net.ico",
     "slug": "underdev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 745,
+    "time": 706,
     "timeDay": 639,
     "timeWeek": 608,
     "timeMonth": 608,
@@ -159,7 +162,8 @@
       "2026-03-10": 84,
       "2026-04-04": 434,
       "2026-04-03": 219,
-      "2026-04-29": 108
+      "2026-04-29": 108,
+      "2026-07-16": 0
     }
   }
 ]
