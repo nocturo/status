@@ -4,17 +4,17 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "83.09%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "98.47%",
-    "time": 2108,
-    "timeDay": 1835,
-    "timeWeek": 1877,
-    "timeMonth": 2003,
-    "timeYear": 2106,
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "81.75%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.42%",
+    "time": 2109,
+    "timeDay": 2414,
+    "timeWeek": 2013,
+    "timeMonth": 2035,
+    "timeYear": 2109,
     "dailyMinutesDown": {
       "2025-07-18": 111,
       "2025-11-23": 25,
@@ -38,7 +38,7 @@
       "2026-04-22": 53,
       "2026-06-20": 90,
       "2026-07-16": 271,
-      "2026-07-17": 1
+      "2026-07-17": 263
     }
   },
   {
@@ -46,16 +46,16 @@
     "url": "https://forum.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/forum.rur.rs.ico",
     "slug": "rur-forum",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "83.10%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "98.49%",
-    "time": 1130,
-    "timeDay": 1074,
-    "timeWeek": 1040,
-    "timeMonth": 1081,
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "81.76%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.44%",
+    "time": 1131,
+    "timeDay": 1135,
+    "timeWeek": 1055,
+    "timeMonth": 1084,
     "timeYear": 1139,
     "dailyMinutesDown": {
       "2025-07-18": 21,
@@ -80,7 +80,7 @@
       "2026-04-03": 221,
       "2026-04-22": 53,
       "2026-07-16": 266,
-      "2026-07-17": 1
+      "2026-07-17": 263
     }
   },
   {
@@ -88,17 +88,17 @@
     "url": "https://www.interprom.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.interprom.rs.ico",
     "slug": "interprom",
-    "status": "down",
-    "uptime": "97.60%",
-    "uptimeDay": "83.16%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "94.93%",
-    "time": 1503,
-    "timeDay": 6934,
-    "timeWeek": 2758,
-    "timeMonth": 1273,
-    "timeYear": 1500,
+    "status": "up",
+    "uptime": "97.58%",
+    "uptimeDay": "81.82%",
+    "uptimeWeek": "94.82%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "94.88%",
+    "time": 1502,
+    "timeDay": 6862,
+    "timeWeek": 2540,
+    "timeMonth": 1251,
+    "timeYear": 1498,
     "dailyMinutesDown": {
       "2025-07-18": 41,
       "2025-10-16": 100,
@@ -138,7 +138,7 @@
       "2026-04-21": 1440,
       "2026-04-20": 671,
       "2026-07-16": 260,
-      "2026-07-17": 0
+      "2026-07-17": 262
     }
   },
   {
@@ -146,16 +146,16 @@
     "url": "https://underdev.net/pi.php",
     "icon": "https://icons.duckduckgo.com/ip3/underdev.net.ico",
     "slug": "underdev",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "83.17%",
-    "uptimeWeek": "97.45%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.74%",
-    "time": 705,
-    "timeDay": 424,
-    "timeWeek": 536,
-    "timeMonth": 593,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "81.83%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.69%",
+    "time": 706,
+    "timeDay": 458,
+    "timeWeek": 556,
+    "timeMonth": 597,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-07-18": 55,
@@ -167,7 +167,7 @@
       "2026-04-03": 219,
       "2026-04-29": 108,
       "2026-07-16": 257,
-      "2026-07-17": 0
+      "2026-07-17": 262
     }
   }
 ]
