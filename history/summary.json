@@ -4,13 +4,13 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.44%",
-    "time": 2111,
+    "time": 2112,
     "timeDay": 1478,
     "timeWeek": 1958,
     "timeMonth": 2027,
@@ -37,7 +37,8 @@
       "2026-04-22": 53,
       "2026-06-20": 90,
       "2026-07-16": 271,
-      "2026-07-17": 263
+      "2026-07-17": 263,
+      "2026-07-29": 2
     }
   },
   {
@@ -45,10 +46,10 @@
     "url": "https://forum.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/forum.rur.rs.ico",
     "slug": "rur-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "98.44%",
     "time": 1131,
@@ -78,7 +79,8 @@
       "2026-04-03": 221,
       "2026-04-22": 53,
       "2026-07-16": 266,
-      "2026-07-17": 263
+      "2026-07-17": 263,
+      "2026-07-29": 2
     }
   },
   {
@@ -86,17 +88,17 @@
     "url": "https://www.interprom.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.interprom.rs.ico",
     "slug": "interprom",
-    "status": "up",
+    "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "94.88%",
-    "time": 1500,
-    "timeDay": 611,
-    "timeWeek": 706,
-    "timeMonth": 1462,
-    "timeYear": 1495,
+    "time": 1533,
+    "timeDay": 10258,
+    "timeWeek": 3106,
+    "timeMonth": 2004,
+    "timeYear": 1541,
     "dailyMinutesDown": {
       "2025-10-16": 100,
       "2025-10-17": 247,
@@ -135,7 +137,8 @@
       "2026-04-21": 1440,
       "2026-04-20": 671,
       "2026-07-16": 260,
-      "2026-07-17": 262
+      "2026-07-17": 262,
+      "2026-07-29": 0
     }
   },
   {
@@ -143,17 +146,17 @@
     "url": "https://underdev.net/pi.php",
     "icon": "https://icons.duckduckgo.com/ip3/underdev.net.ico",
     "slug": "underdev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.70%",
-    "time": 709,
-    "timeDay": 498,
-    "timeWeek": 589,
-    "timeMonth": 597,
-    "timeYear": 746,
+    "time": 708,
+    "timeDay": 337,
+    "timeWeek": 538,
+    "timeMonth": 585,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2025-10-28": 28,
       "2025-11-18": 121,
@@ -163,7 +166,8 @@
       "2026-04-03": 219,
       "2026-04-29": 108,
       "2026-07-16": 257,
-      "2026-07-17": 262
+      "2026-07-17": 262,
+      "2026-07-29": 0
     }
   }
 ]
