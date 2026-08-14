@@ -4,17 +4,17 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.38%",
-    "time": 2123,
-    "timeDay": 1864,
-    "timeWeek": 1985,
-    "timeMonth": 2234,
-    "timeYear": 2135,
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "98.36%",
+    "time": 2122,
+    "timeDay": 1735,
+    "timeWeek": 1938,
+    "timeMonth": 2216,
+    "timeYear": 2133,
     "dailyMinutesDown": {
       "2025-11-23": 25,
       "2025-12-05": 1174,
@@ -39,7 +39,7 @@
       "2026-07-16": 271,
       "2026-07-17": 263,
       "2026-07-29": 324,
-      "2026-08-14": 5
+      "2026-08-14": 103
     }
   },
   {
@@ -47,16 +47,16 @@
     "url": "https://forum.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/forum.rur.rs.ico",
     "slug": "rur-forum",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "98.38%",
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "93.18%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "98.36%",
     "time": 1133,
-    "timeDay": 990,
-    "timeWeek": 1055,
-    "timeMonth": 1093,
+    "timeDay": 922,
+    "timeWeek": 1030,
+    "timeMonth": 1086,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2025-11-23": 25,
@@ -82,7 +82,7 @@
       "2026-07-16": 266,
       "2026-07-17": 263,
       "2026-07-29": 324,
-      "2026-08-14": 0
+      "2026-08-14": 98
     }
   },
   {
