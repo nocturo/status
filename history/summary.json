@@ -4,11 +4,11 @@
     "url": "https://www.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.rur.rs.ico",
     "slug": "rur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "98.36%",
     "time": 2124,
     "timeDay": 2262,
@@ -39,7 +39,8 @@
       "2026-07-16": 271,
       "2026-07-17": 263,
       "2026-07-29": 324,
-      "2026-08-14": 103
+      "2026-08-14": 103,
+      "2026-08-19": 5
     }
   },
   {
@@ -47,10 +48,10 @@
     "url": "https://forum.rur.rs",
     "icon": "https://icons.duckduckgo.com/ip3/forum.rur.rs.ico",
     "slug": "rur-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.36%",
     "time": 1136,
@@ -82,7 +83,8 @@
       "2026-07-16": 266,
       "2026-07-17": 263,
       "2026-07-29": 324,
-      "2026-08-14": 98
+      "2026-08-14": 98,
+      "2026-08-19": 0
     }
   },
   {
