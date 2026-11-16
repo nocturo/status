@@ -90,17 +90,17 @@
     "url": "https://www.interprom.rs",
     "icon": "https://icons.duckduckgo.com/ip3/www.interprom.rs.ico",
     "slug": "interprom",
-    "status": "up",
+    "status": "down",
     "uptime": "97.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.21%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "94.83%",
-    "time": 1523,
-    "timeDay": 1034,
-    "timeWeek": 775,
-    "timeMonth": 2580,
-    "timeYear": 1480,
+    "time": 1519,
+    "timeDay": 534,
+    "timeWeek": 682,
+    "timeMonth": 2505,
+    "timeYear": 1477,
     "dailyMinutesDown": {
       "2025-11-23": 24,
       "2025-12-05": 1174,
@@ -138,7 +138,8 @@
       "2026-07-16": 260,
       "2026-07-17": 262,
       "2026-07-29": 323,
-      "2026-11-04": 348
+      "2026-11-04": 348,
+      "2026-11-16": 0
     }
   },
   {
